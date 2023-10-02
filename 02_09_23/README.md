@@ -2,10 +2,10 @@
 
 <h3>- Esercizi 1 e 2</h3>
 Nulla di pratico, ti spiega come creare l'account per accedere a uno qualsiasi dei computer 
-presenti nell'aula informatica. Ti lascio il link del [documento](https://fad.unich.it/mod/page/view.php?id=25736).
+presenti nell'aula informatica. Ti lascio il link del (documento)[https://fad.unich.it/mod/page/view.php?id=25736].
 
 Ti lascio un'immagine esplicativa su ciò che interessa esercizio 1-2:
-!(Ex1_2)[PNG/Es_1e_2.png]
+![Ex1_2](PNG/Es_1e_2.png)
 
 <h3> Esercizi 3,4 e 5</h3>
 Sono tutti svolti sul terminale e sono abbastanza superflui, trattano l'esecuzione del comando print("Puoi scrivere quello che vuoi") da terminale oppure 
