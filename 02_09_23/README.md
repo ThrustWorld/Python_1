@@ -11,7 +11,7 @@ Ti lascio un'immagine esplicativa su ciò che interessa esercizio 1-2:
 Sono tutti svolti sul terminale e sono abbastanza superflui, trattano l'esecuzione del comando print("Puoi scrivere quello che vuoi") da terminale oppure 
 attraverso un file di testo .py(estensione di un file python). Detto questo, ti riassumo per elencazione i vari comandi che puoi utilizzare sia in Windows che Linux per fare ciò: <br>
 
--<b> Windows</b>
+- Windows
 1. Apertura del terminale -> Puoi farlo con la combinazione tasti "Win + R" e poi, all'interno della finestra che si apre digiti "cmd" e fai esegui;
 2. Elenco delle cartelle -> Il comando "dir" ti elenca tutte le cartelle presenti sul desktop;
 3. Entrata ambiente python -> Basta digitare "python3" nel terminale. Per uscire dall'ambiente, si utilizza il comando "quit()";
@@ -20,7 +20,7 @@ attraverso un file di testo .py(estensione di un file python). Detto questo, ti 
 Il file viene creato vuoto, devi aprirlo come se fosse un documento di testo e scrivere l'istruzione "print()" al suo interno;
 6. Esecuzione del file -> Devi entrare nella cartella dove hai salvato il file e scrivere "python nome.py". Esempio: "C:\Users\nepae\Desktop>python test.py"
 
--<b> Linux </b>
+- Linux
 1. Apertura del terminale -> Puoi farlo con la combinazione tasti "Ctrl + Alt + T";
 2. Elenco delle cartelle -> Il comando "ls" ti elenca tutte le cartelle presenti sul desktop.
 3. Entrata ambiente python -> Basta digitare "python3" nel terminale. Per uscire dall'ambiente, si utilizza il comando "quit()";
