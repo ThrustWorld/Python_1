@@ -1,6 +1,6 @@
 Premessa: Ricordati di scaricare VsCode e Python 3.10, ti lascio la [guida](https://fad.unich.it/mod/page/view.php?id=24971).
 
-<b>Esercizi 1 e 2</b>
+<b>Esercizi 1 e 2</b> <br>
 Nulla di pratico, ti spiega come creare l'account per accedere a uno qualsiasi dei computer 
 presenti nell'aula informatica. Ti lascio il link del [documento](https://fad.unich.it/mod/page/view.php?id=25736)
 
