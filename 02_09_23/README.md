@@ -5,7 +5,7 @@ Nulla di pratico, ti spiega come creare l'account per accedere a uno qualsiasi d
 presenti nell'aula informatica. Ti lascio il link del [documento](https://fad.unich.it/mod/page/view.php?id=25736).
 
 Ti lascio un'immagine esplicativa su ciò che interessa esercizio 1-2:
-!(Ex1_2)[PNG\Es_1e_2.png]
+!(Ex1_2)[PNG/Es_1e_2.png]
 
 <h3> Esercizi 3,4 e 5</h3>
 Sono tutti svolti sul terminale e sono abbastanza superflui, trattano l'esecuzione del comando print("Puoi scrivere quello che vuoi") da terminale oppure 
@@ -20,7 +20,7 @@ attraverso un file di testo .py(estensione di un file python). Detto questo, ti 
 Il file viene creato vuoto, devi aprirlo come se fosse un documento di testo e scrivere l'istruzione "print()" al suo interno;
 6. Esecuzione del file -> Devi entrare nella cartella dove hai salvato il file e scrivere "python nome.py". Esempio: "C:\Users\nepae\Desktop>python test.py"
 
--Linux
+- Linux
 1. Apertura del terminale -> Puoi farlo con la combinazione tasti "Ctrl + Alt + T";
 2. Elenco delle cartelle -> Il comando "ls" ti elenca tutte le cartelle presenti sul desktop.
 3. Entrata ambiente python -> Basta digitare "python3" nel terminale. Per uscire dall'ambiente, si utilizza il comando "quit()";
