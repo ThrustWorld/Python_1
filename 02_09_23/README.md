@@ -1,4 +1,4 @@
-<b> Premessa: </b> Ricordati di scaricare VsCode e Python 3.10, ti lascio la [guida](https://fad.unich.it/mod/page/view.php?id=24971).
+<h1> <b> Premessa: </b> </h1> Ricordati di scaricare VsCode e Python 3.10, ti lascio la [guida](https://fad.unich.it/mod/page/view.php?id=24971).
 
 <h3>- Esercizi 1 e 2</h3>
 Nulla di pratico, ti spiega come creare l'account per accedere a uno qualsiasi dei computer 
