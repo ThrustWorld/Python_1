@@ -1,0 +1,7 @@
+print(" ________________________________________________________________")
+print("|                                                                |")
+print("|Good morning!                | Buongiorno!                      |")
+print("|It's a pleasure to meet you! | E' un piacere conoscerti!        |")
+print("|Please call me tomorrow!     | Per favore, chiamami domani!     |")
+print("|Have a nice day!             | Buona giornata!                  |")
+print("|________________________________________________________________|")
