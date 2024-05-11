@@ -1,4 +1,4 @@
-from ezgraphics import *
+from ezgraphics.graphics import *
 from sys import exit
 
 # costanti con la dimensione della finestra
