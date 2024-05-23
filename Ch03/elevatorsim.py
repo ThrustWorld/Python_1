@@ -5,8 +5,8 @@ floor = int(input("Floor: "))
 
 # Correzione piano se 13 o maggiore
 if floor > 13 :
-    actualFloor = floor - 1 # Oppure si usa l'operatore condizionale -> actualFloor = floor - 1 if floor > 13 else actualFloor = floor
+    actual_floor = floor - 1 # Oppure si usa l'operatore condizionale -> actualFloor = floor - 1 if floor > 13 else actualFloor = floor
 else :
-    actualFloor = floor
+    actual_floor = floor
 
-print("Actual floor: ", actualFloor)
+print("Actual floor: ", actual_floor)

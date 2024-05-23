@@ -22,6 +22,6 @@ else :
         tax1 = RATE1 * RATE1_MARRIED_LIMIT
         tax2 = RATE2 * (income - RATE1_MARRIED_LIMIT)
 
-totalTax = tax1 + tax2
+total_tax = tax1 + tax2
 
-print("Total: %.2f" % totalTax)
+print("Total: %.2f" % total_tax)
