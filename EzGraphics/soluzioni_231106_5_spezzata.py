@@ -1,4 +1,4 @@
-from ezgraphics.graphics import *
+from ezgraphics import GraphicsWindow
 from sys import exit
 
 # costanti con la dimensione della finestra
@@ -19,7 +19,7 @@ canvas.setTextAnchor("center")
 canvas.drawText(SIZE_X // 2, SIZE_Y - SIZE_BUTTON//2, "Esci")
 
 # prendo in input il primo click del mouse
-xold, yold = win.getMouse()
+xold,yold = win.getMouse()
 # se il click avviene nell'area del pulsante, esco dal programma
 if yold > SIZE_Y - SIZE_BUTTON:
     exit()
