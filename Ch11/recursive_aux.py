@@ -1,9 +1,4 @@
 def palindroma_ricorsiva_aux(s, first, last):
-    """
-    Restituisce True se la parte di s compresta tra la posizione first e la posizione
-    last è palindroma, False altrimenti. Se first > last si intende che la parte
-    compresa tra first e last è vuota.
-    """
     is_palindrome = None
     if last <= first:
         is_palindrome = True
