@@ -1,0 +1,4 @@
+Linguaggi ad alto livello = linguaggi con cui viene scritto il codice e hanno bisogno di essere convertiti in linguaggio macchina per essere capiti dal computer
+Linguaggi a basso livello = linguaggi che comunicano direttamente con la macchina
+Interprete = legge il codice riga per riga e si ferma se nota un errore di sintassi
+Compilatore = compila l'intero codice e lo converte in linguaggio macchina per il computer
