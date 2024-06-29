@@ -1,4 +1,4 @@
-from graphics import GraphicsWindow
+from ezgraphics import GraphicsWindow
 
 OFFSET_SQUARE = 40
 SIDE_SQUARE = 40

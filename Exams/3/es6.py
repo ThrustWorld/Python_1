@@ -1,4 +1,4 @@
-from graphics import GraphicsWindow, GraphicsCanvas
+from ezgraphics import GraphicsWindow, GraphicsCanvas
 
 win = GraphicsWindow(400, 400)
 win.setTitle('Esercizio 6')
